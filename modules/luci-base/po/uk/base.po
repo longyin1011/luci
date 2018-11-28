@@ -665,6 +665,9 @@ msgstr "Позначте цей параметр, щоб видалити існ
 msgid "Checksum"
 msgstr "Контрольна сума"
 
+msgid "Choose mtdblock"
+msgstr ""
+
 msgid ""
 "Choose the firewall zone you want to assign to this interface. Select "
 "<em>unspecified</em> to remove the interface from the associated zone or "
@@ -695,6 +698,11 @@ msgid ""
 msgstr ""
 "Натисніть кнопку \"Створити архів\", щоб завантажити tar-архів поточних "
 "файлів конфігурації."
+
+msgid ""
+"Click \"Save mtdblock\" to download specified mtdblock file. (NOTE: THIS "
+"FEATURE IS FOR PROFESSIONALS! )"
+msgstr ""
 
 msgid "Client"
 msgstr "Клієнт"
@@ -1065,6 +1073,9 @@ msgstr "Завантажити та інсталювати пакети"
 
 msgid "Download backup"
 msgstr "Завантажити резервну копію"
+
+msgid "Download mtdblock"
+msgstr ""
 
 msgid "Downstream SNR offset"
 msgstr "Низхідний зсув SNR"
@@ -3069,6 +3080,12 @@ msgstr "Зберегти"
 msgid "Save & Apply"
 msgstr "Зберегти і застосувати"
 
+msgid "Save mtdblock"
+msgstr ""
+
+msgid "Save mtdblock contents"
+msgstr ""
+
 msgid "Scan"
 msgstr "Сканувати"
 
@@ -3967,8 +3984,9 @@ msgstr ""
 "Застереження: Є незбережені зміни, які буде втрачено при перезавантаженні!"
 
 msgid ""
-"When using a PSK, the PMK can be generated locally without inter AP "
-"communications"
+"When using a PSK, the PMK can be automatically generated. When enabled, the "
+"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
+"key options."
 msgstr ""
 
 msgid "Width"

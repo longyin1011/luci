@@ -614,6 +614,9 @@ msgstr ""
 msgid "Checksum"
 msgstr "效驗碼"
 
+msgid "Choose mtdblock"
+msgstr ""
+
 msgid ""
 "Choose the firewall zone you want to assign to this interface. Select "
 "<em>unspecified</em> to remove the interface from the associated zone or "
@@ -640,6 +643,11 @@ msgid ""
 "Click \"Generate archive\" to download a tar archive of the current "
 "configuration files."
 msgstr "按下\"壓縮檔製作\"就能下載目前設定檔的tar格式的壓縮."
+
+msgid ""
+"Click \"Save mtdblock\" to download specified mtdblock file. (NOTE: THIS "
+"FEATURE IS FOR PROFESSIONALS! )"
+msgstr ""
 
 msgid "Client"
 msgstr "用戶端"
@@ -985,6 +993,9 @@ msgstr "下載並安裝軟體包"
 
 msgid "Download backup"
 msgstr "下載備份檔"
+
+msgid "Download mtdblock"
+msgstr ""
 
 msgid "Downstream SNR offset"
 msgstr ""
@@ -2883,6 +2894,12 @@ msgstr "保存"
 msgid "Save & Apply"
 msgstr "保存並啟用"
 
+msgid "Save mtdblock"
+msgstr ""
+
+msgid "Save mtdblock contents"
+msgstr ""
+
 msgid "Scan"
 msgstr "掃描"
 
@@ -3723,8 +3740,9 @@ msgid "Warning: There are unsaved changes that will get lost on reboot!"
 msgstr ""
 
 msgid ""
-"When using a PSK, the PMK can be generated locally without inter AP "
-"communications"
+"When using a PSK, the PMK can be automatically generated. When enabled, the "
+"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
+"key options."
 msgstr ""
 
 msgid "Width"

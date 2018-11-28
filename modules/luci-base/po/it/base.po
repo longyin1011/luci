@@ -636,6 +636,9 @@ msgstr "Marca questa opzione per cancellare le reti esistenti da questa radio."
 msgid "Checksum"
 msgstr "Checksum"
 
+msgid "Choose mtdblock"
+msgstr ""
+
 msgid ""
 "Choose the firewall zone you want to assign to this interface. Select "
 "<em>unspecified</em> to remove the interface from the associated zone or "
@@ -666,6 +669,11 @@ msgid ""
 msgstr ""
 "Premi su \"Genera archivio\" per scaricare un archivio tar di backup dei "
 "file di configurazione attuali."
+
+msgid ""
+"Click \"Save mtdblock\" to download specified mtdblock file. (NOTE: THIS "
+"FEATURE IS FOR PROFESSIONALS! )"
+msgstr ""
 
 msgid "Client"
 msgstr "Cliente"
@@ -1017,6 +1025,9 @@ msgstr "Scarica e installa pacchetto"
 
 msgid "Download backup"
 msgstr "Download backup"
+
+msgid "Download mtdblock"
+msgstr ""
 
 msgid "Downstream SNR offset"
 msgstr ""
@@ -2950,6 +2961,12 @@ msgstr "Salva"
 msgid "Save & Apply"
 msgstr "Salva & applica"
 
+msgid "Save mtdblock"
+msgstr ""
+
+msgid "Save mtdblock contents"
+msgstr ""
+
 msgid "Scan"
 msgstr "Scan"
 
@@ -3800,8 +3817,9 @@ msgid "Warning: There are unsaved changes that will get lost on reboot!"
 msgstr ""
 
 msgid ""
-"When using a PSK, the PMK can be generated locally without inter AP "
-"communications"
+"When using a PSK, the PMK can be automatically generated. When enabled, the "
+"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
+"key options."
 msgstr ""
 
 msgid "Width"

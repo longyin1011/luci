@@ -655,6 +655,9 @@ msgstr ""
 msgid "Checksum"
 msgstr "Контрольная сумма"
 
+msgid "Choose mtdblock"
+msgstr ""
+
 msgid ""
 "Choose the firewall zone you want to assign to this interface. Select "
 "<em>unspecified</em> to remove the interface from the associated zone or "
@@ -686,6 +689,11 @@ msgid ""
 msgstr ""
 "Нажмите 'Создать архив', чтобы загрузить tar-архив текущих config файлов "
 "прошивки устройства, таким образом вы сохраните его настройки."
+
+msgid ""
+"Click \"Save mtdblock\" to download specified mtdblock file. (NOTE: THIS "
+"FEATURE IS FOR PROFESSIONALS! )"
+msgstr ""
 
 msgid "Client"
 msgstr "Клиент"
@@ -1049,6 +1057,9 @@ msgstr "Загрузить и установить пакет"
 
 msgid "Download backup"
 msgstr "Загрузить резервную копию"
+
+msgid "Download mtdblock"
+msgstr ""
 
 msgid "Downstream SNR offset"
 msgstr "SNR offset внутренней сети"
@@ -3046,6 +3057,12 @@ msgstr "Сохранить"
 msgid "Save & Apply"
 msgstr "Сохранить и применить"
 
+msgid "Save mtdblock"
+msgstr ""
+
+msgid "Save mtdblock contents"
+msgstr ""
+
 msgid "Scan"
 msgstr "Поиск"
 
@@ -3945,9 +3962,10 @@ msgstr ""
 "перезагрузке!"
 
 msgid ""
-"When using a PSK, the PMK can be generated locally without inter AP "
-"communications"
-msgstr "При использовании PSK, PMK может быть создан локально, без AP в связи."
+"When using a PSK, the PMK can be automatically generated. When enabled, the "
+"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
+"key options."
+msgstr ""
 
 msgid "Width"
 msgstr "Ширина"
@@ -4172,6 +4190,12 @@ msgstr "да"
 
 msgid "« Back"
 msgstr "« Назад"
+
+#~ msgid ""
+#~ "When using a PSK, the PMK can be generated locally without inter AP "
+#~ "communications"
+#~ msgstr ""
+#~ "При использовании PSK, PMK может быть создан локально, без AP в связи."
 
 #~ msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
 #~ msgstr "<abbr title='Парный: %s / Групповой: %s'>%s - %s</abbr>"
